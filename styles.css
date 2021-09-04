@@ -1,0 +1,41 @@
+body {
+    color:#531927;
+    width: 900px;
+    margin: auto;
+    background-color: #e3edef;
+}
+nav{
+    display: block;
+    background-color: #72a2ac;;
+}
+nav ul{
+    list-style: none;
+    padding: 5px;
+}
+nav li{
+    display: inline-block;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 5px;
+}
+nav a{
+    color:black;
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family: ZCOOL Kuaile;
+}
+h1{
+    font-family: ZCOOL Kuaile;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+article{
+    display: block;
+    width: 100%;
+}
+article img{
+    display: block;
+    width: auto;
+}
